@@ -4,14 +4,20 @@ Official public distribution repository for AudioPulse release downloads and sig
 
 ## Downloads
 
-No application versions have been published yet. When available, macOS installers and update archives will appear on the [Releases page](https://github.com/Davrat/AudioPulseReleases/releases).
+Download available application packages from the [Releases page](https://github.com/Davrat/AudioPulseReleases/releases). Read each release's platform, channel, availability, and signing notes before installing.
 
-iOS application releases are distributed through Apple's App Store, not through this repository.
+iOS application distribution uses Apple's App Store.
+
+## About GitHub's source archives
+
+GitHub automatically adds **Source code (zip)** and **Source code (tar.gz)** links to releases. These archives are snapshots of this distribution repository: its README and public update metadata. They do not contain the private AudioPulse application source.
+
+To install AudioPulse, choose the application package attached to the release under **Assets**.
 
 ## Repository scope
 
-- Release binaries belong in GitHub Releases assets, not in Git history.
-- Signed update feeds and public release notes will be maintained by the release pipeline.
+- Compiled application binaries belong in GitHub Releases assets, not in Git history.
+- Git contains release-distribution metadata, including signed update feeds and publication manifests.
 - Product source code, signing keys, credentials, and user data must not be uploaded here.
 
-This is a release-distribution repository, not the application source repository. Creating it does not mean that the application or automatic update service is live.
+Each release states its channel and availability; Stage/Beta packages are development releases.
