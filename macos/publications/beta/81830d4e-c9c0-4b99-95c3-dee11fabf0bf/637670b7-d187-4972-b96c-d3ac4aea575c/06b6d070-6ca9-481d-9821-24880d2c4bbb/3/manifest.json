@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "releaseId": "81830d4e-c9c0-4b99-95c3-dee11fabf0bf",
+  "operationId": "06b6d070-6ca9-481d-9821-24880d2c4bbb",
+  "publicationRevision": 3,
+  "sourceProfileId": "global_only",
+  "artifactManifestSha256": "105a0350673bc7c2595352e8b478cb06a5d48c9da9f66a8dae79e739d45ee443",
+  "requiredSourceIds": [
+    "github",
+    "aws"
+  ],
+  "feeds": [
+    {
+      "sourceId": "github",
+      "operationId": "06b6d070-6ca9-481d-9821-24880d2c4bbb",
+      "publicationRevision": 3,
+      "immutableFeedUrl": "https://raw.githubusercontent.com/Davrat/AudioPulseReleases/3d2e94c7c215ffa1f73befe8b7aece5ce6f6a5ee/macos/beta/appcast.xml",
+      "immutableFeedIdentity": "commit:3d2e94c7c215ffa1f73befe8b7aece5ce6f6a5ee:path:macos/beta/appcast.xml",
+      "feedSha256": "e62638f1d73b190a25abb80c552ae11170f9030d04c01825e68fb63900b2a0e1",
+      "activeFeedUrl": "https://raw.githubusercontent.com/Davrat/AudioPulseReleases/updates-beta/macos/beta/appcast.xml",
+      "activeFeedIdentity": "ref:refs/heads/updates-beta:commit:3d2e94c7c215ffa1f73befe8b7aece5ce6f6a5ee",
+      "previousActiveFeedIdentity": null,
+      "checkedAtUtc": "2026-11-08T06:32:21.331Z",
+      "isAvailable": true,
+      "isVisibleToAllSupportedClients": true,
+      "safeErrorCode": null
+    }
+  ]
+}
