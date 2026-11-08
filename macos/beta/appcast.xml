@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:audiopulse="https://audiopulse.app/releases" version="2.0"><channel><audiopulse:appIdentity>com.audiopulse.local.stage.beta</audiopulse:appIdentity><audiopulse:sourceCommitSha>d3d03e52bdd81452bb6cd3c055017a0ef490a11d</audiopulse:sourceCommitSha><audiopulse:publicationRevision>4</audiopulse:publicationRevision></channel></rss><!-- sparkle-signatures:
-edSignature: 3je6D0cwVOOxitfT2Z8AC7f3lw3zGuQf9n92/lMf8/O33OrNwzTzMc2s19PLebwpIWVHYNapUgmQdS7Tmx6/CA==
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:audiopulse="https://audiopulse.app/releases" version="2.0"><channel><audiopulse:appIdentity>com.audiopulse.local.stage.beta</audiopulse:appIdentity><audiopulse:sourceCommitSha>d3d03e52bdd81452bb6cd3c055017a0ef490a11d</audiopulse:sourceCommitSha><audiopulse:publicationRevision>5</audiopulse:publicationRevision></channel></rss><!-- sparkle-signatures:
+edSignature: laOD4Ke+eWCTmJL/ELIL2L6cHwRsjKPTGcVp1k1blSJaXlfdOJJUGk33rgoeemLAbLcZnvIOL8RXDrBT672zDA==
 length: 697
 -->
