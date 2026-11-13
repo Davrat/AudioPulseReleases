@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "releaseId": "1eed049b-f067-406d-821a-c639b0e26188",
+  "operationId": "86542ce2-c2cd-44d4-a75d-ef565717b8df",
+  "publicationRevision": 7,
+  "sourceProfileId": "global_only",
+  "artifactManifestSha256": "1ce031ee616b9f0a23d30cf7410c0c224c507d907eee8e46ce5e2e6cc38750e1",
+  "requiredSourceIds": [
+    "github",
+    "aws"
+  ],
+  "feeds": [
+    {
+      "sourceId": "github",
+      "operationId": "86542ce2-c2cd-44d4-a75d-ef565717b8df",
+      "publicationRevision": 7,
+      "immutableFeedUrl": "https://raw.githubusercontent.com/Davrat/AudioPulseReleases/ef7311004297b35df8beca9aea3ba11bc3efeacd/macos/beta/appcast.xml",
+      "immutableFeedIdentity": "commit:ef7311004297b35df8beca9aea3ba11bc3efeacd:path:macos/beta/appcast.xml",
+      "feedSha256": "5b9205c76ff0fbdf72b037ccd0d1b221e9c24d68db439245f20a9b1f59628ff9",
+      "activeFeedUrl": "https://raw.githubusercontent.com/Davrat/AudioPulseReleases/updates-beta/macos/beta/appcast.xml",
+      "activeFeedIdentity": "ref:refs/heads/updates-beta:commit:ef7311004297b35df8beca9aea3ba11bc3efeacd",
+      "previousActiveFeedIdentity": null,
+      "checkedAtUtc": "2026-11-13T20:10:00.265Z",
+      "isAvailable": true,
+      "isVisibleToAllSupportedClients": true,
+      "safeErrorCode": null
+    },
+    {
+      "sourceId": "aws",
+      "operationId": "86542ce2-c2cd-44d4-a75d-ef565717b8df",
+      "publicationRevision": 7,
+      "immutableFeedUrl": "https://d2qsbv8651mqe9.cloudfront.net/macos/beta/feeds/1eed049b-f067-406d-821a-c639b0e26188/7/appcast.xml",
+      "immutableFeedIdentity": "aws:audiopulse-stage-beta-updates-updatesbucket-t1p9mwribdxt:macos/beta/feeds/1eed049b-f067-406d-821a-c639b0e26188/7/appcast.xml:version:CyonrFc_2oGXyGugR7bBocVwlmAtKsnn:etag:\"d4d1c5c12791ba7f20bf38bb9c06910b\"",
+      "feedSha256": "5b9205c76ff0fbdf72b037ccd0d1b221e9c24d68db439245f20a9b1f59628ff9",
+      "activeFeedUrl": "https://d2qsbv8651mqe9.cloudfront.net/macos/beta/appcast.xml",
+      "activeFeedIdentity": "aws:audiopulse-stage-beta-updates-updatesbucket-t1p9mwribdxt:macos/beta/appcast.xml:version:k4iTBgD0LXg_nGwal6SVrWqzjdrs_y.c:etag:\"d4d1c5c12791ba7f20bf38bb9c06910b\"",
+      "previousActiveFeedIdentity": null,
+      "checkedAtUtc": "2026-11-13T20:10:07.129Z",
+      "isAvailable": true,
+      "isVisibleToAllSupportedClients": true,
+      "safeErrorCode": null
+    }
+  ]
+}
