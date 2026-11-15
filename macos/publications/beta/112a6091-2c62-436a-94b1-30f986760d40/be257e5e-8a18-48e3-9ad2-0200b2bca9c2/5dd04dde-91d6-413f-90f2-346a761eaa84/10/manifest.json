@@ -1,0 +1,44 @@
+{
+  "schemaVersion": 1,
+  "releaseId": "112a6091-2c62-436a-94b1-30f986760d40",
+  "operationId": "5dd04dde-91d6-413f-90f2-346a761eaa84",
+  "publicationRevision": 10,
+  "sourceProfileId": "global_only",
+  "artifactManifestSha256": "1c81dea105c141bbd3ceacf3e429204e2c1590f64014a099933e826603e96c60",
+  "requiredSourceIds": [
+    "github",
+    "aws"
+  ],
+  "feeds": [
+    {
+      "sourceId": "github",
+      "operationId": "5dd04dde-91d6-413f-90f2-346a761eaa84",
+      "publicationRevision": 10,
+      "immutableFeedUrl": "https://raw.githubusercontent.com/Davrat/AudioPulseReleases/3d046a8c5543363a4f4c221a5355adba5df5636c/macos/beta/appcast.xml",
+      "immutableFeedIdentity": "commit:3d046a8c5543363a4f4c221a5355adba5df5636c:path:macos/beta/appcast.xml",
+      "feedSha256": "dfb2f7a143ec80fba513078e5c3ba6a42125517fcf56b38bc01f8de69ff4d27d",
+      "activeFeedUrl": "https://raw.githubusercontent.com/Davrat/AudioPulseReleases/updates-beta/macos/beta/appcast.xml",
+      "activeFeedIdentity": "ref:refs/heads/updates-beta:commit:3d046a8c5543363a4f4c221a5355adba5df5636c",
+      "previousActiveFeedIdentity": null,
+      "checkedAtUtc": "2026-11-15T20:51:31.803Z",
+      "isAvailable": true,
+      "isVisibleToAllSupportedClients": true,
+      "safeErrorCode": null
+    },
+    {
+      "sourceId": "aws",
+      "operationId": "5dd04dde-91d6-413f-90f2-346a761eaa84",
+      "publicationRevision": 10,
+      "immutableFeedUrl": "https://d2qsbv8651mqe9.cloudfront.net/macos/beta/feeds/112a6091-2c62-436a-94b1-30f986760d40/10/appcast.xml",
+      "immutableFeedIdentity": "aws:audiopulse-stage-beta-updates-updatesbucket-t1p9mwribdxt:macos/beta/feeds/112a6091-2c62-436a-94b1-30f986760d40/10/appcast.xml:version:M0Szlj_IhOAWF49ZTCuaPDz_QKEgyIHs:etag:\"b52712d6db9068136eea47b9796580f1\"",
+      "feedSha256": "685f352a01033140f473c29c7dc4d3db3045f303d79ab49323f1564a12fca84f",
+      "activeFeedUrl": "https://d2qsbv8651mqe9.cloudfront.net/macos/beta/appcast.xml",
+      "activeFeedIdentity": "aws:audiopulse-stage-beta-updates-updatesbucket-t1p9mwribdxt:macos/beta/appcast.xml:version:YdgnFy3ETJenCq0poN5pmOzzCPma9Ivc:etag:\"b52712d6db9068136eea47b9796580f1\"",
+      "previousActiveFeedIdentity": null,
+      "checkedAtUtc": "2026-11-15T20:51:52.795Z",
+      "isAvailable": true,
+      "isVisibleToAllSupportedClients": true,
+      "safeErrorCode": null
+    }
+  ]
+}
